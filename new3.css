@@ -1,0 +1,56 @@
+body{
+    background-color:#39313c;
+}
+a:link{
+    font-size: 35px;
+    color:darkred;
+    text-decoration: none;
+    padding: 90px;
+}
+a:visited{
+    color:#e3dcd4;
+}
+.container
+{
+    height: 390px;
+    width:500px;
+    background-color:#e3dcd4 ;
+    padding: 10px;
+    margin:60px;
+    align-content: center;
+    position: absolute;
+    top: 50%;
+    right: 25%;
+    transform: translate(-50%, -50%);
+            
+}
+.lo
+{
+    border: 3px solid chocolate;
+    border-radius: 35%;
+    background-color: chocolate;
+    color:#E3DCD4;
+
+    font-size: 45px;
+    width: 50px;
+    height: 30px;
+
+}
+iframe{
+    border: 2px solid black;
+    margin: 35px;
+    float:right;
+}
+.hh{
+    height: 50px;
+    width: 550px;
+    background-color:#E3DCD4;
+    color:#570202;
+ font-size:40px; 
+ text-align:center;
+ float: right;
+ top:50%;
+ transform: translate(-50%,-50%);
+ margin: 50px;
+
+}

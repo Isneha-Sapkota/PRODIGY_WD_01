@@ -1,0 +1,65 @@
+body{
+    background-color: #39313c;
+}
+a:link{
+    font-size: 35px;
+    color:darkred;
+    text-decoration: none;
+    padding: 90px;
+}
+a:visited{
+    color:#e3dcd4;
+}
+.rell
+{
+    height:250px;
+    width:250px;
+    background-color: #e3dcd4;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    top: 50%;
+    left:11%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+}
+.fap
+{
+    height:250px;
+    width:250px;
+    background-color: #e3dcd4;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    top: 50%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+
+}
+.loll
+{
+    height:250px;
+    width:250px;
+    background-color: #e3dcd4;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    top: 50%;
+    left:63%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+}
+.pp
+{
+    height:250px;
+    width:250px;
+    background-color: #e3dcd4;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    top: 50%;
+    left: 89%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+}

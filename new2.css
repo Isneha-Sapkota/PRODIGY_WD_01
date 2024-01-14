@@ -1,0 +1,42 @@
+body{
+    background-color: #39313c;
+}
+a:link{
+    padding:100px;
+    text-decoration: none;
+    font-size: 35px;
+}
+a:visited{
+    color:#e3dcd4;
+}
+.container{
+    background-color:#E3DCD4;
+    padding: 20px;
+    border: 10px solid #E3DCD4;
+    width:700px;
+    height: 500px;
+    align-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.lo
+{
+    border: 3px solid chocolate;
+    border-radius: 35%;
+    background-color: chocolate;
+    color:#E3DCD4;
+    font-size: 45px;
+    width: 50px;
+    height: 50px;
+
+}
+.illl
+{
+    padding: 100px;
+}
+p{
+    color:#570202;
+    font-size: 20px;
+}

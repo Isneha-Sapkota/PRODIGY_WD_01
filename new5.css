@@ -1,0 +1,44 @@
+body{
+    background-color:#39313c;
+}
+a:link{
+    font-size: 35px;
+    color:darkred;
+    text-decoration: none;
+    padding: 90px;
+}
+a:visited{
+    color:#e3dcd4;
+}
+.rell
+{
+    position: absolute;
+    top: 50%;
+    left:11%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+}
+.fap
+{
+      position: absolute;
+    top: 50%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+}
+.loll
+{ 
+    position: absolute;
+    top: 50%;
+    left:63%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+}
+.pp
+{
+     position: absolute;
+    top: 50%;
+    left: 89%;
+    transform: translate(-50%, -50%);
+    color:#570202;
+}
